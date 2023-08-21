@@ -1,3 +1,3 @@
-print("salom dunyo")
-print("hello wold")
-print("la")
+def jas(son:int):
+    return son**2
+print(jas(25))
